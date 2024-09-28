@@ -1,0 +1,24 @@
+type: remote_edu
+files:
+  - name: task.js
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: task.js~
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/426/stages/2496/implement#comment
+check_profile: hyperskill_node_javascript
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 28 Sep 2024 11:59:13 UTC"
+record: -1
